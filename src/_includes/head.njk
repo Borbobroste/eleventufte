@@ -21,4 +21,60 @@
 <link rel="stylesheet" href="/assets/tufte-css/tufte.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/3434e84155.css">
 
+<style>
+/* =======================================================
+   STYLE GLOBAL & NOM DU SITE (TOUT LE TEMPS ACTIF)
+   ======================================================= */
+html, body {
+  font-family: "EB Garamond", Georgia, serif !important;
+}
+
+/* Forcer le nom du site en Violet Barbare partout */
+.brand, .brand a, .brand a:link, .brand a:visited, #header h1 a {
+  color: #bd5eff !important;
+  background: none !important;
+  background-image: none !important;
+  text-decoration: none !important;
+  font-weight: 700 !important;
+}
+
+/* =======================================================
+   NETTOYAGE ET SÉCURISATION DU MODE SOMBRE (MINUIT)
+   ======================================================= */
+@media (prefers-color-scheme: dark) {
+  html, body, main, article, section, div, p, span, li, code, ol, ul {
+    background-color: #050b14 !important; /* Bleu minuit profond */
+    color: #e2e8f0 !important;            /* Texte blanc-gris doux */
+  }
+
+  h1, h2, h3, h4, h5, h6, .title, .post-title, .posts h2 a {
+    color: #ffffff !important;
+    background: none !important;
+  }
+
+  .sidenote, .marginnote, .sidenote-number, .marginnote-number {
+    color: #8fa3b7 !important;
+    background: none !important;
+  }
+
+  /* ÉRADICATION RADICALE DU JAUNE ET BLANC SOU LIGNÉ (Sélecteurs ultra-précis) */
+  a:link, a:visited, 
+  article p a:link, article p a:visited,
+  main a:link, main a:visited,
+  .posts a:link, .posts a:visited,
+  p a:link, p a:visited {
+    color: #ffca28 !important;            /* Splendide or ambre chaud */
+    background: transparent !important;          
+    background-image: none !important;    /* Pulvérise le vieux dégradé de Tufte */
+    text-decoration: underline !important; /* Force un vrai soulignement classique */
+    text-decoration-color: rgba(255, 202, 40, 0.4) !important;
+  }
+
+  /* Liens au survol du stylet S Pen */
+  a:hover, a:active, p a:hover, article p a:hover {
+    color: #ffffff !important;
+    text-decoration-color: #ffffff !important;
+  }
+}
+</style>
 
