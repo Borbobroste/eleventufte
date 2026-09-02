@@ -20,3 +20,51 @@
 <link rel="stylesheet" href="/assets/main.css">
 <link rel="stylesheet" href="/assets/tufte-css/tufte.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/3434e84155.css">
+
+<style>
+/* =======================================================
+   CONFIGURATION CHROME GLOBALE (APPLIQUÉE TOUT LE TEMPS)
+   ======================================================= */
+html, body {
+  font-family: "EB Garamond", Georgia, serif !important;
+}
+
+/* LE NOM DU SITE RESTE EN VIOLET (MODE CLAIR ET SOMBRE) */
+.brand, .brand a {
+  color: #bd5eff !important; /* Violet vibrant */
+  background: none !important;
+  font-weight: 700 !important;
+}
+
+
+/* =======================================================
+   CONFIGURATION AUTOMATIQUE DU MODE SOMBRE (MINUIT)
+   ======================================================= */
+@media (prefers-color-scheme: dark) {
+  html, body, main, article, section, div, p, span, li, code {
+    background-color: #050b14 !important; /* Bleu minuit très profond */
+    color: #e2e8f0 !important;            /* Texte clair lisible */
+  }
+
+  /* Titres en blanc pur (sauf le .brand qui reste violet au-dessus) */
+  h1, h2, h3, h4, h5, h6, .title, .post-title {
+    color: #ffffff !important;
+    background: none !important;
+  }
+
+  /* Notes de marge en bleu-gris discret */
+  .sidenote, .marginnote, .sidenote-number, .marginnote-number {
+    color: #8fa3b7 !important;
+    background: none !important;
+  }
+
+  /* Liens en or ambre en mode sombre */
+  a:link, a:visited {
+    color: #ffca28 !important;            
+    background: none !important;          
+    background-image: none !important;    /* Élimine le dégradé jaune original */
+    text-decoration: underline !important; 
+    text-decoration-color: rgba(255, 202, 40, 0.4) !important;
+  }
+}
+</style>
