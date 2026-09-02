@@ -13,39 +13,3 @@
   background: none;
   background-repeat: no-repeat;
 }
-
-/* --- CORRECTION COMPLÈTE TUFTE MODE NUIT --- */
-html, body {
-  background-color: #0d1b2a !important; /* Fond bleu nuit */
-  color: #e0e5e6 !important;            /* Texte blanc-gris doux */
-}
-
-/* Forcer TOUS les blocs de texte (citations, code, blocs) sur fond transparent */
-p, span, code, pre, blockquote, q, article, section, div {
-  background-color: transparent !important;
-  background: none !important;
-  color: #e0e5e6 !important;
-}
-
-/* Titres en blanc pur pour bien ressortir */
-h1, h2, h3, h4, h5, h6, .title, .post-title {
-  color: #ffffff !important;
-  background: none !important;
-}
-
-/* Notes de marge, petits chiffres et icônes en bleu-gris clair */
-.fab, .fas, .sidenote, .marginnote, .sidenote-number, .marginnote-number {
-  color: #93a8bc !important;
-  background: none !important;
-}
-
-/* Liens textuels élégants en ambre/or doux */
-a:link, a:visited {
-  color: #fad02c !important;
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, rgba(250, 208, 44, 0.2) 50%) !important;
-}
-
-/* Liens au survol du doigt */
-a:hover, a:active {
-  color: #ffffff !important;
-}
