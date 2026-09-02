@@ -20,3 +20,64 @@
 <link rel="stylesheet" href="/assets/main.css">
 <link rel="stylesheet" href="/assets/tufte-css/tufte.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/3434e84155.css">
+<!-- Importation de l'alternative officielle à Didot avec tailles optiques -->
+<link href="https://googleapis.com" rel="stylesheet">
+
+<style>
+/* --- CONFIGURATION COMPLÈTE MINUIT & VIOLET BARBARE --- */
+html, body {
+  background-color: #050b14 !important; /* Bleu minuit très profond */
+  color: #e2e8f0 !important;            /* Texte blanc-gris doux (haute lisibilité) */
+}
+
+/* Supprime les anciens fonds récalcitrants de Tufte */
+main, article, section, div, p, span, li, code {
+  background-color: transparent !important;
+  background: none !important;
+  color: #e2e8f0 !important;
+}
+
+/* --- TITRES STYLE DIDOT HTF ROBUSTE --- */
+h1, h2, h3, h4, h5, h6, .title, .post-title {
+  font-family: 'Bodoni Moda', 'Didot', serif !important;
+  font-optical-sizing: auto !important;
+  font-variation-settings: "opsz" 12 !important; /* Épaissit les déliés fins pour le fond sombre */
+  color: #ffffff !important;
+  background: none !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.03em !important;
+  
+  /* Micro-ombrage violet discret pour nourrir les traits fins */
+  text-shadow: 0 0 2px rgba(189, 94, 255, 0.4), 0.5px 0.5px 0px rgba(189, 94, 255, 0.3) !important;
+}
+
+/* --- LE NOM DU SITE (UNIQUEMENT) EN VIOLET BARBARE --- */
+.brand, .brand a {
+  font-family: 'Bodoni Moda', 'Didot', serif !important;
+  font-variation-settings: "opsz" 12 !important;
+  color: #bd5eff !important; /* Violet vibrant magique sur le fond sombre */
+  font-weight: 700 !important;
+  text-shadow: 0 0 3px rgba(189, 94, 255, 0.6), 0.5px 0.5px 0px #050b14 !important;
+}
+
+/* Notes de marge et petits chiffres Tufte en bleu-gris discret */
+.sidenote, .marginnote, .sidenote-number, .marginnote-number {
+  color: #8fa3b7 !important;
+  background: none !important;
+}
+
+/* --- NETTOYAGE ET FIX DES LIENS (Fini le jaune et blanc bizarre) --- */
+a:link, a:visited {
+  color: #ffca28 !important;            /* Splendide or ambre (complémentaire du violet) */
+  background: none !important;          
+  background-image: none !important;    /* Éradique le vieux dégradé de Tufte */
+  text-decoration: underline !important; /* Un vrai soulignement classique et net */
+  text-decoration-color: rgba(255, 202, 40, 0.4) !important;
+}
+
+/* Liens au survol du stylet S Pen */
+a:hover, a:active {
+  color: #ffffff !important;
+  text-decoration-color: #ffffff !important;
+}
+</style>
