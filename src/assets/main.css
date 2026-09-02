@@ -13,3 +13,30 @@
   background: none;
   background-repeat: no-repeat;
 }
+
+/* --- THÈME EDWARD TUFTE MODE NUIT --- */
+body {
+  background-color: #0d1b2a !important; /* Bleu nuit très profond et apaisant */
+  color: #e0e5e6 !important;            /* Texte blanc-gris doux (ne pique pas les yeux) */
+}
+
+/* Titres en blanc pur pour bien ressortir */
+h1, h2, h3, h4, h5, h6, .title {
+  color: #ffffff !important;
+}
+
+/* Notes de marge et icônes en bleu-gris clair discret */
+.fab, .fas, .sidenote, .marginnote, .sidenote-number {
+  color: #93a8bc !important;
+}
+
+/* Liens textuels élégants en ambre/or doux (référence au papier Tufte) */
+a:link, a:visited {
+  color: #fad02c !important;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, rgba(250, 208, 44, 0.2) 50%) !important;
+}
+
+/* Ajustement cosmétique pour les lignes de séparation s'il y en a */
+hr {
+  border-top: 1px solid #1b263b !important;
+}
