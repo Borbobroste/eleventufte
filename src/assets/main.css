@@ -13,3 +13,43 @@
   background: none;
   background-repeat: no-repeat;
 }
+
+/* --- CORRECTION ULTIME TUFTE : STYLE MINUIT DEEP --- */
+html, body {
+  background-color: #060c14 !important; /* Bleu nuit extrêmement sombre et profond */
+  color: #e2e8f0 !important;            /* Texte blanc-gris doux et très lisible */
+}
+
+/* Supprime les anciens fonds et force la couleur claire sur tous les éléments */
+main, article, section, div, p, span, li, code {
+  background-color: transparent !important;
+  background: none !important;
+  color: #e2e8f0 !important;
+}
+
+/* Titres en blanc pur */
+h1, h2, h3, h4, h5, h6, .title, .post-title, .brand, .brand a {
+  color: #ffffff !important;
+  background: none !important;
+}
+
+/* Notes de marge et petits chiffres en bleu-gris discret */
+.sidenote, .marginnote, .sidenote-number, .marginnote-number {
+  color: #8fa3b7 !important;
+  background: none !important;
+}
+
+/* FIX DES LIENS (Mots soulignés) : On efface le dégradé Tufte d'origine */
+a:link, a:visited {
+  color: #ffca28 !important;            /* Magnifique couleur ambre/or chaud */
+  background: none !important;          /* Supprime le soulignement jaune/blanc bizarre */
+  background-image: none !important;    /* Force la suppression de l'ancien dégradé */
+  text-decoration: underline !important; /* Remplace par un vrai soulignement propre */
+  text-decoration-color: rgba(255, 202, 40, 0.4) !important; /* Soulignement or discret */
+}
+
+/* Liens au survol du doigt ou du stylet S Pen */
+a:hover, a:active {
+  color: #ffffff !important;
+  text-decoration-color: #ffffff !important;
+}
