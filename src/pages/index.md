@@ -6,9 +6,11 @@ permalink: "/"
 
 [^{-} Who wants marginalia? You want marginalia. Admit it.]
 
-A quick-start template that combines the front-end styling of [tufte-css](https://github.com/edwardtufte/tufte-css), the custom parser of [tufte-markdown](https://github.com/luhmann/tufte-markdown), and the flexibility of [Eleventy](https://11ty.dev) in the style of [Edward Tufte's much-loved books](https://www.edwardtufte.com/tufte/).
+« Qu’est-ce que la francophonie ? » était notre grande question de littérature et politique, mais la profusion de discours et débats autour d’un terme dont le sens se dérobait avait fini par produire une forme d’inintelligibilité du concept, en grande partie due à l’impossibilité, théorisée et affirmée, de produire de l’historicité, c’est-à-dire, ici, une histoire littéraire. Que voulait donc dire ce mot critiqué par beaucoup pour son « néocolonialisme » ? Comment penser ensemble les débats sur la « francophonie », ceux sur l’identité « française » dans lesquels ils s’inscrivaient en négatif, la révolution, la colonisation, le monde « postcolonial », les rapports entre centre et périphérie, la modernité poétique et politique, la langue française, l’oralité, le rap ?
 
-The [Features page](features/) gives a more thorough run-down of the Markdown enhancements it offers. If you're interested in cloning and using it yourself, [head on over to Github](https://github.com/nerdhaus/eleventufte)…
+Par la littérature, bien sûr. Et par la médiation du concept qui transcendait toutes ces questions : celui de barbarie.
+
+](https://github.com/nerdhaus/eleventufte)…
 
 ## Recent posts…
 {%- import "list.njk" as list -%}
