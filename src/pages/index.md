@@ -1,6 +1,6 @@
 ---
-title: Eleventufte
-subtitle: A Tufte-flavored starter kit for the Eleventy static site generator
+title: Francophonie, une généalogie barbare
+subtitle: Pour une autre histoire littéraire 
 permalink: "/"
 ---
 
