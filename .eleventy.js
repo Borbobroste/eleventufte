@@ -39,7 +39,16 @@ module.exports = function (eleventyConfig) {
 		eleventyConfig.setDataDeepMerge(true)
 
 		// Base Config
-		return {
+		
+	eleventyConfig.addTransform("espaces-insécables-français", function(content, outputPath) {
+    if (outputPath && outputPath.endsWith(".html")) {
+        return content
+            .replace(/«[ \t]+/g, "«\u00A0")
+            .replace(/[ \t]+»/g, "\u00A0»");
+    }
+    return content;
+});
+	return {
 				dir: {
 						input: 'src',
 						output: 'dist',
