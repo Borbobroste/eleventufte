@@ -96,12 +96,19 @@ section > p {
   margin-bottom: 2rem;
 }
 
-.site-title,
+.site-title {
+  font-family: "Inconsolata", monospace;
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: #453592 !important;
+  text-decoration: none !important;
+}
+
 .site-title:visited,
 .site-title:hover,
 .site-title:active {
-  color: #453592;
-  text-decoration: none;
+  color: #453592 !important;
+  text-decoration: none !important;
 }
 
 .site-nav {
