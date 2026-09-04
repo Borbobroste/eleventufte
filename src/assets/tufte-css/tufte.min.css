@@ -6,6 +6,3 @@ section > p {
 body {
   font-variant-ligatures: none;
 }
-body.accueil {
-  background-color: #eee5ff;
-}
