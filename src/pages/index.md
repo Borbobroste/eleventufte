@@ -1,6 +1,6 @@
 ---
-title: Barbarophonie
-subtitle: Pour une autre histoire littéraire 
+title: Francophonie
+subtitle: Une généalogie barbare
 permalink: "/"
 bodyClass: accueil
 ---
