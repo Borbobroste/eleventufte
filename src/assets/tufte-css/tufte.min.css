@@ -127,6 +127,13 @@ section > p {
   font-size: 1rem;
 }
 
+.site-brand {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
 .theme-toggle {
   font-size: 2rem;
+  color: #B8B4C8;
 }
