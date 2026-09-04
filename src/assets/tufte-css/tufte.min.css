@@ -111,11 +111,7 @@ section > p {
   text-decoration: none !important;
 }
 
-.site-nav {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-}
+
 
 .theme-toggle,
 .menu-toggle {
@@ -127,20 +123,13 @@ section > p {
   font-size: 1rem;
 }
 
-.site-brand {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-}
 
 .theme-toggle {
   font-size: 2rem;
   color: #B8B4C8 !important;
   line-height: 1;
+  background: none;
+  border: none;
+  cursor: pointer;
 }
 
-.menu-toggle {
-  font-size: 2rem !important;
-  color: #B8B4C8 !important;
-  line-height: 1;
-}
