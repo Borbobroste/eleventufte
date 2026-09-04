@@ -2,6 +2,7 @@
 title: Barbarophonie
 subtitle: Pour une autre histoire littéraire 
 permalink: "/"
+bodyClass: accueil
 ---
 
 
