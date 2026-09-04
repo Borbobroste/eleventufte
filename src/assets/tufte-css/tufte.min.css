@@ -130,10 +130,14 @@ section > p {
 .site-brand {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 2rem;
 }
 
 .theme-toggle {
   font-size: 2rem;
-  color: #B8B4C8;
+  color: #B8B4C8 !important;
+}
+
+.menu-toggle {
+  font-size: 2rem;
 }
