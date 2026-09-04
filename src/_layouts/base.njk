@@ -4,6 +4,15 @@
 		{% include "head.njk" %}
   </head>
   <body>
+
+<header class="site-header">
+  <a href="/" class="site-title">barbarophonie</a>
+  <nav class="site-nav">
+    <button class="theme-toggle" type="button" aria-label="Passer au mode clair">☼</button>
+    <button class="menu-toggle" type="button">MENU</button>
+  </nav>
+</header>
+
 		<article>
 		<h1>{{ title | markdownInline | safe }}</h1>
 		{% if subtitle %}<p class="subtitle">{{ subtitle | markdownInline | safe }}</p>{% endif %}
