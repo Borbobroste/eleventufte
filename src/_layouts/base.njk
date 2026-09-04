@@ -3,7 +3,7 @@
   <head>
 		{% include "head.njk" %}
   </head>
-  <body{% if bodyClass %} class="{{ bodyClass }}"{% endif %}>
+  <body>
 		<article>
 		<h1>{{ title | markdownInline | safe }}</h1>
 		{% if subtitle %}<p class="subtitle">{{ subtitle | markdownInline | safe }}</p>{% endif %}
