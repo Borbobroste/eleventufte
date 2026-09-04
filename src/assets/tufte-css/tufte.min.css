@@ -122,6 +122,13 @@ section > p {
   padding: 0;
   line-height: 1;
 }
+
+.theme-toggle {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
 .menu-toggle {
   font-family: "Inconsolata", monospace;
   background: none;
