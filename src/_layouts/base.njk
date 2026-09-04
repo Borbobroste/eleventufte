@@ -23,11 +23,4 @@
   </body>
 </html>
 
-		<article>
-		<h1>{{ title | markdownInline | safe }}</h1>
-		{% if subtitle %}<p class="subtitle">{{ subtitle | markdownInline | safe }}</p>{% endif %}
-				{{ content | safe }}
-		</article>
-		{% include "footer.njk" %}
-  </body>
-</html>
+	
