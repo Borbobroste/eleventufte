@@ -2,3 +2,9 @@
 section > p {
   text-align: justify;
 }
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #080D1F;
+    color: #F2F0EA;
+  }
+}
