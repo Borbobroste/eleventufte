@@ -113,19 +113,16 @@ section > p {
 
 
 
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
 .theme-toggle,
 .menu-toggle {
   font-family: "Inconsolata", monospace;
-  background: none;
-  border: none;
-  color: #453592;
-  cursor: pointer;
-  font-size: 1rem;
-}
-
-
-.theme-toggle {
-  font-size: 2rem;
+  font-size: 2rem !important;
   color: #B8B4C8 !important;
   line-height: 1;
   background: none;
