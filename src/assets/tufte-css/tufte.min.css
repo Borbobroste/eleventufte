@@ -119,18 +119,19 @@ section > p {
   gap: 1rem;
 }
 
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
 .theme-toggle,
 .menu-toggle {
   font-family: "Inconsolata", monospace;
-  font-size: 2rem !important;
+  font-size: 2.5rem !important;
   color: #B8B4C8 !important;
   line-height: 1;
   background: none;
   border: none;
   cursor: pointer;
 }
-
-.menu-toggle {
-  transform: scale(1.25);
-}
-
