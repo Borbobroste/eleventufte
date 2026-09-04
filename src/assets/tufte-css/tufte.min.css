@@ -117,7 +117,11 @@ section > p {
   gap: 1rem;
 }
 
-.theme-toggle,
+.theme-toggle {
+  font-size: 1.5rem;
+  padding: 0;
+  line-height: 1;
+}
 .menu-toggle {
   font-family: "Inconsolata", monospace;
   background: none;
