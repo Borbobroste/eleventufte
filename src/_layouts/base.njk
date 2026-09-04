@@ -8,11 +8,20 @@
 <header class="site-header">
   <a href="/" class="site-title">barbarophonie</a>
 
-  <button class="theme-toggle" type="button" aria-label="Passer au mode clair">☼</button>
+  <nav class="site-nav">
+    <button class="theme-toggle" type="button" aria-label="Passer au mode clair">☼</button>
+    <button class="menu-toggle" type="button" aria-label="Ouvrir le menu">☰</button>
+  </nav>
 </header>
 
-  <button class="menu-toggle" type="button" aria-label="Ouvrir le menu">☰</button>
-</header>
+		<article>
+		<h1>{{ title | markdownInline | safe }}</h1>
+		{% if subtitle %}<p class="subtitle">{{ subtitle | markdownInline | safe }}</p>{% endif %}
+				{{ content | safe }}
+		</article>
+		{% include "footer.njk" %}
+  </body>
+</html>
 
 		<article>
 		<h1>{{ title | markdownInline | safe }}</h1>
