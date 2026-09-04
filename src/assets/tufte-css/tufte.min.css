@@ -136,8 +136,11 @@ section > p {
 .theme-toggle {
   font-size: 2rem;
   color: #B8B4C8 !important;
+  line-height: 1;
 }
 
 .menu-toggle {
-  font-size: 2rem;
+  font-size: 2rem !important;
+  color: #B8B4C8 !important;
+  line-height: 1;
 }
