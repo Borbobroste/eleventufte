@@ -96,10 +96,10 @@ section > p {
   margin-bottom: 2rem;
 }
 
-.site-title {
-  font-family: "Inconsolata", monospace;
-  font-weight: 700;
-  font-size: 1.4rem;
+.site-title,
+.site-title:visited,
+.site-title:hover,
+.site-title:active {
   color: #453592;
   text-decoration: none;
 }
