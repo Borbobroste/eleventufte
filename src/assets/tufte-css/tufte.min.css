@@ -8,3 +8,30 @@ section > p {
     color: #F2F0EA;
   }
 }
+@media (prefers-color-scheme: dark) {
+  .hover-tufte-underline:hover,
+  .tufte-underline,
+  a:link {
+    background:
+      -webkit-linear-gradient(#080D1F,#080D1F),
+      -webkit-linear-gradient(#080D1F,#080D1F),
+      -webkit-linear-gradient(currentColor,currentColor);
+    background:
+      linear-gradient(#080D1F,#080D1F),
+      linear-gradient(#080D1F,#080D1F),
+      linear-gradient(currentColor,currentColor);
+    text-shadow:
+      .03em 0 #080D1F,
+      -.03em 0 #080D1F,
+      0 .03em #080D1F,
+      0 -.03em #080D1F,
+      .06em 0 #080D1F,
+      -.06em 0 #080D1F,
+      .09em 0 #080D1F,
+      -.09em 0 #080D1F,
+      .12em 0 #080D1F,
+      -.12em 0 #080D1F,
+      .15em 0 #080D1F,
+      -.15em 0 #080D1F;
+  }
+}
