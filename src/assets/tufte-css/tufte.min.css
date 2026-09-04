@@ -45,3 +45,46 @@ section > p {
     color: #453592;
   }
 }
+
+/* Inconsolata */
+@font-face {
+  font-family: "Inconsolata";
+  src: url("/assets/inconsolata/Inconsolata-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inconsolata";
+  src: url("/assets/inconsolata/Inconsolata-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inconsolata";
+  src: url("/assets/inconsolata/Inconsolata-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inconsolata SemiExpanded";
+  src: url("/assets/inconsolata/InconsolataSemiExpanded-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inconsolata Expanded";
+  src: url("/assets/inconsolata/InconsolataExpanded-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inconsolata UltraCondensed";
+  src: url("/assets/inconsolata/InconsolataUltraCondensed-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
