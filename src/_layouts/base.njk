@@ -24,6 +24,23 @@
 				{{ content | safe }}
 		</article>
 		{% include "footer.njk" %}
+
+<script>
+  const themeToggle = document.querySelector('.theme-toggle');
+
+  themeToggle.addEventListener('click', () => {
+    document.body.classList.toggle('light-mode');
+
+    if (document.body.classList.contains('light-mode')) {
+      themeToggle.textContent = '☾';
+      themeToggle.setAttribute('aria-label', 'Passer au mode sombre');
+    } else {
+      themeToggle.textContent = '☼';
+      themeToggle.setAttribute('aria-label', 'Passer au mode clair');
+    }
+  });
+</script>
+
   </body>
 </html>
 
