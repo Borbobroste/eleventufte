@@ -18,3 +18,11 @@ body.light-mode {
   background-color: #f5f1e8;
   color: #111;
 }
+
+article {
+  padding-top: 0 !important;
+}
+
+article h1 {
+  margin-top: 0 !important;
+}
