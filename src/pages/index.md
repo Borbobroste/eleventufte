@@ -15,7 +15,7 @@ Par la littérature, bien sûr. Et par la médiation du concept qui transcendait
 
 
 
-*Voilà plus de dix ans que Nicolas Hossard essaie, d’abord à l’Université, puis en dehors, de faire passer l’idée d’une synthèse entre mémoires nationale et postcoloniale autour d’une autre histoire de la francophonie. Alors que la thématique barbare a récemment été reprise par le mouvement postcolonial français et ainsi promue médiatiquement, il publie aujourd’hui ses travaux.*
+*Voilà plus de dix ans que Nicolas Hossard essaie, d’abord à l’Université, puis en dehors, de faire passer l’idée d’une synthèse entre mémoires nationale et postcoloniale autour d’une autre histoire de la francophonie. Alors que la thématique barbare a récemment été reprise par le mouvement décolonial français et ainsi promue médiatiquement, il publie aujourd’hui ses travaux.*
 
 ## Recent posts…
 {%- import "list.njk" as list -%}
