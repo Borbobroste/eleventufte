@@ -15,8 +15,10 @@
 </header>
 
 		<article>
-		<h1>{{ title | markdownInline | safe }}</h1>
-		{% if subtitle %}<p class="subtitle">{{ subtitle | markdownInline | safe }}</p>{% endif %}
+		{% if not bodyClass == "accueil" %}
+  <h1>{{ title | markdownInline | safe }}</h1>
+  {% if subtitle %}<p class="subtitle">{{ subtitle | markdownInline | safe }}</p>{% endif %}
+{% endif %}
 				{{ content | safe }}
 		</article>
 		{% include "footer.njk" %}
