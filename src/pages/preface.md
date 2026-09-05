@@ -1,5 +1,5 @@
 ---
-title: ”Francophonie : une généalogie barbare”
+title: Francophonie, une généalogie barbare
 subtitle: Préface
 permalink: "/preface/"
 date: 2025-04-01
