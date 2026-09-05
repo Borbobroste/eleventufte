@@ -135,3 +135,11 @@ section > p {
   border: none;
   cursor: pointer;
 }
+
+.site-tagline {
+  font-family: "Inconsolata", monospace;
+  font-size: 0.8rem;
+  color: #b8b8b8;
+  margin-top: 0.15rem;
+  letter-spacing: 0.02em;
+}
