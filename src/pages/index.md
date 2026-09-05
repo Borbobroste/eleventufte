@@ -1,5 +1,5 @@
 ---
-title:
+title: Francophonie : une généalogie barbare
 subtitle:
 permalink: "/"
 bodyClass: accueil
