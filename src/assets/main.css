@@ -34,6 +34,10 @@ article img {
 .quatrieme-couverture {
   font-family: "Inconsolata", monospace;
   text-align: left;
+}
+
+.quatrieme-couverture p {
   font-size: 0.7em;
+}
 }
 
