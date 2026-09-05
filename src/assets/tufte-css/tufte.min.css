@@ -6,7 +6,7 @@ section > p {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #080D1F;
+  background-color: #151515;
     color: #F2F0EA;
   }
 }
