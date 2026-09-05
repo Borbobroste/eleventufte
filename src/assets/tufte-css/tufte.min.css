@@ -150,4 +150,7 @@ section > p {
   letter-spacing: 0.02em;
 }
 
-<p class="preface-link"><a href="/preface/">Lire la préface →</a></p>
+.preface-link {
+  text-align: center;
+  margin-top: 2rem;
+}
