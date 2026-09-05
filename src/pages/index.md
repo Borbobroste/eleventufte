@@ -4,7 +4,7 @@ subtitle: Une généalogie barbare
 permalink: "/"
 bodyClass: accueil
 ---
-<object data="/assets/Première%20de%20couverture.pdf"
+<object data="/assets/couverture.pdf"
         type="application/pdf"
         width="100%"
         height="800">
