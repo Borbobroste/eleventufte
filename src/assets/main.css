@@ -13,3 +13,8 @@
   background: none;
   background-repeat: no-repeat;
 }
+
+body.light-mode {
+  background-color: #f5f1e8;
+  color: #111;
+}
