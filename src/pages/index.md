@@ -1,6 +1,4 @@
 ---
-title: Francophonie
-subtitle: Une généalogie barbare
 permalink: "/"
 bodyClass: accueil
 ---
