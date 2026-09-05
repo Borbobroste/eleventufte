@@ -4,11 +4,8 @@ subtitle: Une généalogie barbare
 permalink: "/"
 bodyClass: accueil
 ---
-<object data="/assets/couverture.pdf"
-        type="application/pdf"
-        width="100%"
-        height="800">
-</object>
+<img src="/assets/couverture.png"
+     alt="Couverture de Francophonie : Une généalogie barbare">
 
 <span class="newthought">« Qu’est-ce que la francophonie ? »</span> était notre grande question de littérature, mais la profusion de discours et débats autour d’un terme dont le sens se dérobait avait fini par produire une forme d’inintelligibilité du concept, en grande partie due à l’impossibilité, théorisée et affirmée, de produire de l’historicité, c’est-à-dire, ici, une histoire littéraire. 
 
