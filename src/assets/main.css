@@ -36,3 +36,8 @@ article img {
   text-align: left;
   font-size: 0.9em;
 }
+
+.quatrieme-couverture strong {
+  font-size: 1em;
+  font-weight: 700;
+}
