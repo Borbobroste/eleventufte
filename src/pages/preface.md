@@ -1,8 +1,8 @@
 ---
 title: Préface
+permalink: "/preface/"
 date: 2025-04-01
 ---
-
 
 J’ai consacré une partie de ma jeunesse à des ­recherches sur la francophonie en littérature, d’abord à l’Université, dans le cadre d’un doctorat à Paris IV.  Après la censure d’un de mes ­articles par le Conseil National du Livre, puis par le Comité scientifique en charge de le relire et enfin par ma directrice de thèse qui dirigeait l’ouvrage, je fus contraint, en 2014, d’arrêter ma thèse, puisque je n’étais pas autorisé à y soutenir mes analyses (dans cet article, j’étudiais le rapport de l’écrivain algérien Kateb ­Yacine à la littérature française, notamment tout le travail de réécritures rimbaldiennes).
 
