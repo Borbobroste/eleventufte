@@ -136,6 +136,12 @@ section > p {
   cursor: pointer;
 }
 
+.site-brand {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
 .site-tagline {
   font-family: "Inconsolata", monospace;
   font-size: 0.8rem;
