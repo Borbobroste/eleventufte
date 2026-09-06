@@ -15,7 +15,7 @@
   </nav>
 </header>
 
-		<article>
+		<article class="{% if compact %}compact-page{% endif %}">
 		{% if permalink != "/" %}
   <h1>{{ title | markdownInline | safe }}</h1>
   {% if subtitle %}<p class="subtitle">{{ subtitle | markdownInline | safe }}</p>{% endif %}
