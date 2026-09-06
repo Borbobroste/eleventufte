@@ -35,11 +35,6 @@ article img {
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.65);
 }
 
-.quatrieme-couverture {
-  font-family: et-book, serif;
-  text-align: justify;
-}
-
 .preface-link a {
   font-family: "Inconsolata", monospace;
 }
