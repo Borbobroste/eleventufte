@@ -8,8 +8,6 @@ compact: true
 <img src="/assets/couverture.png"
      alt="Couverture de Francophonie : Une généalogie barbare">
 
-
-<div class="quatrieme-couverture">
      
 
 « <span class="small-caps">"Qu’est-ce que la francophonie ?"</span> était notre grande question de littérature, mais la profusion de discours et débats autour d’un terme dont le sens se dérobait avait fini par produire une forme d’inintelligibilité du concept, en grande partie due à l’impossibilité, théorisée et affirmée, de produire de l’historicité, c’est-à-dire, ici, une histoire littéraire. 
@@ -23,4 +21,3 @@ Par la littérature, bien sûr. Et par la médiation du concept qui transcendait
 *Voilà plus de dix ans que Nicolas Hossard essaie, d’abord à l’Université, puis en dehors, de faire passer l’idée d’une synthèse entre mémoires nationale et postcoloniale autour d’une autre histoire de la francophonie. Alors que la thématique barbare a récemment été reprise par le mouvement décolonial français et ainsi promue médiatiquement, il publie aujourd’hui ses travaux.*
 
 <p class="preface-link"><a href="/preface/">Lire la préface →</a></p>
-</div>
