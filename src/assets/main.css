@@ -39,3 +39,7 @@ article img {
 .preface-link a {
   font-family: "Inconsolata", monospace;
 }
+
+.small-caps {
+  font-variant: small-caps;
+}
