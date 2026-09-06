@@ -118,7 +118,10 @@ article img {
 }
 
 .contact-form button {
+  display: block;
+  margin-left: auto;
   font-family: "Inconsolata", monospace;
+  font-size: 1.1rem;
   color: #453592;
   background: transparent;
   border: none;
