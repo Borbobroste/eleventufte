@@ -39,6 +39,22 @@ article img {
   font-family: "Inconsolata", monospace;
 }
 
+.index-links {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin-top: 0.5rem;
+  font-family: "Inconsolata", monospace;
+}
+
+.index-links a {
+  font-family: "Inconsolata", monospace;
+}
+
+.preface-link {
+  margin-bottom: 0.5rem;
+}
+
 .small-caps {
   font-variant: small-caps;
 }
