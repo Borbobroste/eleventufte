@@ -43,3 +43,8 @@ article img {
 .small-caps {
   font-variant: small-caps;
 }
+
+.signature {
+  text-align: right;
+  font-style: italic;
+}
