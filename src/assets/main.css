@@ -49,6 +49,11 @@ article img {
 
 .index-links a {
   font-family: "Inconsolata", monospace;
+  white-space: nowrap;
+}
+
+.index-links a {
+  font-family: "Inconsolata", monospace;
 }
 
 .preface-link {
