@@ -78,3 +78,10 @@ article img {
   background: none;
   background-repeat: no-repeat;
 }
+
+.preface-link a,
+.index-links a,
+.contact-form label,
+.contact-form button {
+  font-family: "Inconsolata", monospace;
+}
