@@ -79,9 +79,53 @@ article img {
   background-repeat: no-repeat;
 }
 
-.preface-link a,
-.index-links a,
-.contact-form label,
+
+.contact-form {
+  margin-top: 3rem;
+}
+
+.contact-form p {
+  margin-bottom: 1.5rem;
+}
+
+.contact-form label {
+  display: block;
+  font-family: "Inconsolata", monospace;
+  color: #666;
+  margin-bottom: 0.4rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  box-sizing: border-box;
+  font-family: "ET Book", "Book Antiqua", Palatino, Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.4;
+  color: #eee;
+  background: #080D1F;
+  border: 1px solid #666;
+  padding: 0.7rem;
+}
+
+.contact-form input {
+  height: 2.6rem;
+}
+
+.contact-form textarea {
+  min-height: 12rem;
+  resize: vertical;
+}
+
 .contact-form button {
   font-family: "Inconsolata", monospace;
+  color: #453592;
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.contact-form .hidden-field {
+  display: none;
 }
