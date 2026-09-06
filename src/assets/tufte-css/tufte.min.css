@@ -15,7 +15,7 @@ section > p {
   .hover-tufte-underline:hover,
   .tufte-underline,
   a:link {
-    color: #453592;
+    color: #462185;
     background:
       linear-gradient(#080D1F,#080D1F),
       linear-gradient(#080D1F,#080D1F),
@@ -42,7 +42,7 @@ section > p {
 @media (prefers-color-scheme: dark) {
   .sidenote-number:after,
   .sidenote:before {
-    color: #453592;
+    color: #462185;
   }
 }
 
@@ -100,14 +100,14 @@ section > p {
   font-family: "Inconsolata", monospace;
   font-weight: 700;
   font-size: 1.1rem;
-  color: #453592 !important;
+  color: #462185 !important;
   text-decoration: none !important;
 }
 
 .site-title:visited,
 .site-title:hover,
 .site-title:active {
-  color: #453592 !important;
+  color: #462185 !important;
   text-decoration: none !important;
 }
 
