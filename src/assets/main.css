@@ -20,11 +20,15 @@ body.light-mode {
 }
 
 article {
-  padding-top: 0 !important;
+  padding-top: 4rem !important;
 }
 
 article h1 {
   margin-top: 0 !important;
+}
+
+article.compact-page {
+  padding-top: 0 !important;
 }
 
 article img {
