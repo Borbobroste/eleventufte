@@ -32,12 +32,8 @@ article img {
 }
 
 .quatrieme-couverture {
-  font-family: "Inconsolata", monospace;
+  font-family: et-book, serif;
   text-align: left;
-}
-
-.quatrieme-couverture p {
-  font-size: 1,05em;
 }
 }
 
