@@ -14,11 +14,6 @@
   background-repeat: no-repeat;
 }
 
-body.light-mode {
-  background-color: #f5f1e8;
-  color: #111;
-}
-
 article {
   padding-top: 4rem !important;
 }
@@ -122,7 +117,7 @@ article img {
   margin-left: auto;
   font-family: "Inconsolata", monospace;
   font-size: 1.25rem;
-  color: #453592;
+  color: #462185;
   background: transparent;
   border: none;
   padding: 0;
