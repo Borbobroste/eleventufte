@@ -48,3 +48,13 @@ article img {
   text-align: right;
   font-style: italic;
 }
+
+.site-nav a {
+  color: #666;
+  text-decoration: none;
+}
+
+.social-links a:link {
+  background: none;
+  background-repeat: no-repeat;
+}
