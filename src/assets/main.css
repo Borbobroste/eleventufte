@@ -35,3 +35,7 @@ article img {
   font-family: et-book, serif;
   text-align: justify;
 }
+
+.preface-link a {
+  font-family: "Inconsolata", monospace;
+}
