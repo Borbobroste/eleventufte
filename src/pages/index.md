@@ -3,6 +3,7 @@ title: Francophonie une généalogie barbare
 subtitle:
 permalink: "/"
 bodyClass: accueil
+compact: true
 ---
 <img src="/assets/couverture.png"
      alt="Couverture de Francophonie : Une généalogie barbare">
