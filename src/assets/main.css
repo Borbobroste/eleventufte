@@ -127,3 +127,11 @@ article img {
 .contact-form .hidden-field {
   display: none;
 }
+
+.preface-links {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin-top: 2.5rem;
+  font-family: "Inconsolata", monospace;
+}
