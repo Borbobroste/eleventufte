@@ -31,7 +31,7 @@ Ce livre entreprend de ­refaire la généalogie d’une question d’histoire l
 
 <p class="signature">Vabre, avril 2025</p>
 
-<p class="index-links">
+<p class="preface-links">
   <a href="/lecture/">Table des matières →</a>
   <a href="https://amzn.eu/d/03eizw3q">Commander le livre →</a>
 </p>
