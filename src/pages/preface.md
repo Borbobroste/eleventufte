@@ -30,3 +30,8 @@ Voici donc comment non pas « imaginer un ­destin littéraire au rap françai
 Ce livre entreprend de ­refaire la généalogie d’une question d’histoire littéraire qui, parce qu’elle réfléchit le fonctionnement politique et impérial d’une nation dont le rapport à l’altérité se résout précisément dans la littérature, exige un consensus critique et historiographique plus juste.
 
 <p class="signature">Vabre, avril 2025</p>
+
+<p class="index-links">
+  <a href="/lecture/">Table des matières →</a>
+  <a href="https://amzn.eu/d/03eizw3q">Commander le livre →</a>
+</p>
