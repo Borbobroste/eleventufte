@@ -31,4 +31,3 @@ Ce livre entreprend de refaire la généalogie d’une question d’histoire lit
   <a href="/lecture/">Table des matières →</a>
   <a href="https://amzn.eu/d/03eizw3q">Commander le livre →</a>
 </p>
----
