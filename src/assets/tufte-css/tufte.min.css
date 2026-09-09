@@ -61,34 +61,6 @@ section > p {
   font-style: normal;
 }
 
-@font-face {
-  font-family: "Inconsolata";
-  src: url("/assets/inconsolata/Inconsolata-ExtraBold.ttf") format("truetype");
-  font-weight: 800;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Inconsolata SemiExpanded";
-  src: url("/assets/inconsolata/InconsolataSemiExpanded-Black.ttf") format("truetype");
-  font-weight: 900;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Inconsolata Expanded";
-  src: url("/assets/inconsolata/InconsolataExpanded-ExtraBold.ttf") format("truetype");
-  font-weight: 800;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Inconsolata UltraCondensed";
-  src: url("/assets/inconsolata/InconsolataUltraCondensed-Black.ttf") format("truetype");
-  font-weight: 900;
-  font-style: normal;
-}
-
 .site-header {
   display: flex;
   justify-content: space-between;
@@ -112,12 +84,6 @@ section > p {
 }
 
 
-
-.site-nav {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-}
 
 .site-nav {
   display: flex;
