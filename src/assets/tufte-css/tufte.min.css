@@ -19,7 +19,7 @@ section > p {
     background:
       linear-gradient(#080D1F,#080D1F),
       linear-gradient(#080D1F,#080D1F),
-      linear-gradient(#4F3488,#4F3488);
+      linear-gradient(#482C86,#482C86);
     background-size: .05em 1px,.05em 1px,1px 1px;
     background-repeat: no-repeat,no-repeat,repeat-x;
     text-shadow:
@@ -42,7 +42,7 @@ section > p {
 @media (prefers-color-scheme: dark) {
   .sidenote-number:after,
   .sidenote:before {
-    color: #4F3488;
+    color: #482C86;
   }
 }
 
@@ -100,14 +100,14 @@ section > p {
   font-family: "Inconsolata", monospace;
   font-weight: 700;
   font-size: 1.1rem;
-  color: #4F3488!important;
+  color: #482C86!important;
   text-decoration: none !important;
 }
 
 .site-title:visited,
 .site-title:hover,
 .site-title:active {
-  color: #4F3488!important;
+  color: #482C86!important;
   text-decoration: none !important;
 }
 
