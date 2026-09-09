@@ -167,5 +167,5 @@ article img {
 }
 
 .site-menu a:hover {
-  color: #482C86;
+  color: #482C86 !important;
 }
