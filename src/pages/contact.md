@@ -3,7 +3,7 @@ title: Contact
 permalink: "/contact/"
 ---
 
-<p>Vous pouvez me contacter via ce formulaire :</p>
+<p>Vous pouvez m’écrire via ce formulaire :</p>
 
 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="contact-form">
 
