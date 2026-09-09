@@ -61,6 +61,22 @@ section > p {
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Didot HTF6";
+  src: url("/assets/Didot/Didot L06 Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Didot HTF6";
+  src: url("/assets/Didot/Didot L06 Light Italic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
 .site-header {
   display: flex;
   justify-content: space-between;
