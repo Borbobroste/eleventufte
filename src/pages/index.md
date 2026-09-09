@@ -23,6 +23,6 @@ Par la littérature, bien sûr. Et par la médiation du concept qui transcendait
 <p class="preface-link"><a href="/preface.pdf">Lire la préface →</a></p>
 
 <p class="index-links">
-  <a href="/assets/Francophonie-une-genealogie-barbare-table-des-matieres.pdf">Table des matières →</a>
+  <p class="toc-link"><a href="/table-des-matieres.pdf">Table des matières →</a></p>
   <a href="https://amzn.eu/d/03eizw3q">Commander le livre →</a>
 </p>
