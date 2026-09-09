@@ -160,8 +160,10 @@ article img {
 .site-menu a {
   font-family: "Inconsolata", monospace;
   font-size: 0.9rem;
-  color: #B8B4C8;
-  text-decoration: none;
+  color: #B8B4C8 !important;
+  text-decoration: none !important;
+  background: none !important;
+  text-shadow: none !important;
 }
 
 .site-menu a:hover {
