@@ -30,10 +30,13 @@ module.exports = function (eleventyConfig) {
 		eleventyConfig.addLayoutAlias('simple',		'base.njk')
 		eleventyConfig.addLayoutAlias('post',		  'base.njk')
 
-		// Pass-through files
-		eleventyConfig.addPassthroughCopy('src/admin')
-		eleventyConfig.addPassthroughCopy('src/assets')
-		eleventyConfig.addPassthroughCopy('src/uploads')
+	
+// Pass-through files
+eleventyConfig.addPassthroughCopy('src/admin')
+eleventyConfig.addPassthroughCopy('src/assets')
+eleventyConfig.addPassthroughCopy('src/uploads')
+eleventyConfig.addPassthroughCopy('src/preface.pdf')
+eleventyConfig.addPassthroughCopy('src/table-des-matieres.pdf')
 
 		// Deep-Merge
 		eleventyConfig.setDataDeepMerge(true)
