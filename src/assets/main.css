@@ -30,37 +30,29 @@ article img {
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.65);
 }
 
-/* Page d'accueil */
-
-article.accueil img + p {
-  margin-top: 2rem;
-}
-
-article.accueil p:nth-of-type(4) {
-  margin-top: 2rem;
-}
-
 .preface-link a {
   font-family: "Inconsolata", monospace;
-}
-
-.preface-link {
-  text-align: center;
-  margin-top: 2rem;
-  margin-bottom: 0;
 }
 
 .index-links {
   display: flex;
   justify-content: center;
   gap: 3rem;
-  margin-top: 0.7rem;
+  margin-top: 0.5rem;
   font-family: "Inconsolata", monospace;
 }
 
 .index-links a {
   font-family: "Inconsolata", monospace;
   white-space: nowrap;
+}
+
+.index-links a {
+  font-family: "Inconsolata", monospace;
+}
+
+.preface-link {
+  margin-bottom: 0.5rem;
 }
 
 .small-caps {
@@ -81,6 +73,7 @@ article.accueil p:nth-of-type(4) {
   background: none;
   background-repeat: no-repeat;
 }
+
 
 .contact-form {
   margin-top: 3rem;
