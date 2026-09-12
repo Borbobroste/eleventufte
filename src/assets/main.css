@@ -169,3 +169,11 @@ article img {
 .site-menu a:hover {
   color: #482C86 !important;
 }
+
+article.compact-page img {
+  margin-bottom: 2rem;
+}
+
+article.compact-page .preface-link {
+  margin-bottom: 1.5rem;
+}
