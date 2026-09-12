@@ -1,11 +1,10 @@
-
 ---
-
 title: Francophonie une généalogie barbare
 subtitle:
 permalink: "/"
 bodyClass: accueil
 compact: true
+---
 
 <img src="/assets/couverture.png"  
 alt="Couverture de Francophonie : Une généalogie barbare">
@@ -18,7 +17,9 @@ Par la littérature, bien sûr. Et par la médiation du concept qui transcendait
 
 Voilà plus de dix ans que Nicolas Hossard essaie, d’abord à l’Université, puis en dehors, de faire passer l’idée d’une synthèse entre mémoires nationale et postcoloniale autour d’une autre histoire de la francophonie. Alors que la thématique barbare a récemment été reprise par le mouvement décolonial français et ainsi promue médiatiquement, il publie aujourd’hui ses travaux.
 
-<p class="preface-link"><a href="/preface.pdf">Lire la préface →</a></p>  <p class="index-links">  
- <a href="/table-des-matieres.pdf">Table des matières →</a>  
- <a href="https://amzn.eu/d/03eizw3q">Commander le livre →</a>  
+<p class="preface-link"><a href="/preface.pdf">Lire la préface →</a></p>
+
+<p class="index-links">
+  <a href="/table-des-matieres.pdf">Table des matières →</a>
+  <a href="https://amzn.eu/d/03eizw3q">Commander le livre →</a>
 </p>
