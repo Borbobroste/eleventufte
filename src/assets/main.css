@@ -171,13 +171,10 @@ article img {
 }
 
 article.compact-page img {
-  margin-bottom: 1,5rem;
+  margin-bottom: 2rem;
 }
 
 article.compact-page .preface-link {
   margin-bottom: 1.5rem;
 }
 
-article.compact-page > p:nth-of-type(4) {
-  margin-top: 3rem;
-}
