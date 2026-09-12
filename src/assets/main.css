@@ -171,7 +171,7 @@ article img {
 }
 
 article.compact-page img {
-  margin-bottom: 3rem;
+  margin-bottom: 1,5rem;
 }
 
 article.compact-page .preface-link {
@@ -179,5 +179,5 @@ article.compact-page .preface-link {
 }
 
 article.compact-page > p:nth-of-type(4) {
-  margin-top: 2rem;
+  margin-top: 3rem;
 }
