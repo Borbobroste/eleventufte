@@ -13,6 +13,7 @@ compact: true
 
 .accueil-bio {
   margin-top: 2rem !important;
+  text-align: justify;
 }
 
 .accueil-actions {
@@ -20,7 +21,7 @@ compact: true
 }
 
 .accueil-actions .index-links {
-  margin-top: 0.4rem !important;
+  margin-top: 0.7rem !important;
 }
 </style>
 
