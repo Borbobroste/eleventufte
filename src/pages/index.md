@@ -1,3 +1,11 @@
+---
+title: Francophonie une généalogie barbare
+subtitle:
+permalink: "/"
+bodyClass: accueil
+compact: true
+---
+
 <style>
 .accueil-image {
   margin-bottom: 0.8rem !important;
