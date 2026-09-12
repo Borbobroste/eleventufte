@@ -181,3 +181,7 @@ article.compact-page .preface-link {
 article.compact-page .bio {
   margin-top: 2rem;
 }
+
+.index-links a {
+  font-weight: 600;
+}
