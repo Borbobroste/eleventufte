@@ -20,7 +20,7 @@ compact: true
 }
 
 .accueil-actions .index-links {
-  margin-top: 0.2rem !important;
+  margin-top: 0.4rem !important;
 }
 </style>
 
@@ -31,7 +31,7 @@ compact: true
 
 Que voulait donc dire ce mot critiqué par beaucoup pour son "néocolonialisme" ? Comment penser ensemble les débats sur la "francophonie", ceux sur l’identité "française" dans lesquels ils s’inscrivaient en négatif, la révolution, la colonisation, le monde "postcolonial", les rapports entre centre et périphérie, la modernité poétique et politique, la langue française, l’oralité, le rap ?
 
-Par la littérature, bien sûr. Et par la médiation du concept qui transcendait toutes ces questions : celui de barbarie.
+Par la littérature, bien sûr. Et par la médiation du concept qui transcendait toutes ces questions : celui de barbarie. »
 
 <div class="accueil-bio">
 
