@@ -177,3 +177,7 @@ article.compact-page img {
 article.compact-page .preface-link {
   margin-bottom: 1.5rem;
 }
+
+article.compact-page > p:nth-of-type(4) {
+  margin-top: 2rem;
+}
