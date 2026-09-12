@@ -12,19 +12,15 @@ compact: true
 }
 
 .accueil-bio {
-  margin-top: 1.4rem !important;
+  margin-top: 2rem !important;
 }
 
 .accueil-actions {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-  margin-top: 0 !important;
+  margin-top: 0.4rem !important;
 }
 
-.accueil-actions p {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+.accueil-actions .index-links {
+  margin-top: 0.2rem !important;
 }
 </style>
 
