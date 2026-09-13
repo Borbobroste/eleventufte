@@ -1,5 +1,5 @@
 ---
-title: Francophonie une généalogie barbare
+title: "Francophonie : une généalogie barbare — Nicolas Hossard"
 subtitle: "Francophonie : une généalogie barbare, un essai de Nicolas Hossard pour une autre histoire littéraire de la francophonie."
 permalink: "/"
 bodyClass: accueil
