@@ -7,6 +7,7 @@
 
 <title>barbarophonie</title>
 <meta name="description" content="{{ metaDescription | markdownInline | striptags }}">
+<link rel="canonical" href="https://barbarophonie.fr{{ page.url }}">
 <link type="application/atom+xml" rel="alternate" href="{{ meta.url }}/feed.xml" title="{{ meta.title }}">
 
 <link rel="preload" as="font" type="font/woff2" crossorigin href="/assets/tufte-css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff" />
@@ -17,6 +18,6 @@
 {% if attachments %}{{ attachments | linkToHead | safe }}{% endif %}
 {% if libraries %}{{ libraries | linkToHead | safe }}{% endif %}
 
-<link <link rel="stylesheet" href="/assets/main.css">
+<link rel="stylesheet" href="/assets/main.css">
 <link rel="stylesheet" href="/assets/tufte-css/tufte.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/3434e84155.css">
