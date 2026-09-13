@@ -3,6 +3,12 @@
     command = "npm run build"
 
 [[redirects]]
+    from = "https://barbarophonie.netlify.app/*"
+    to = "https://barbarophonie.fr/:splat"
+    status = 301
+    force = true
+
+[[redirects]]
     from = "*"
     to = "/404"
     status = 404
