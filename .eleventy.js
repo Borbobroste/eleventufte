@@ -37,8 +37,9 @@ eleventyConfig.addPassthroughCopy('src/assets')
 eleventyConfig.addPassthroughCopy('src/uploads')
 eleventyConfig.addPassthroughCopy('src/preface.pdf')
 eleventyConfig.addPassthroughCopy('src/table-des-matieres.pdf')
-
-		// Deep-Merge
+eleventyConfig.addPassthroughCopy('src/robots.txt')
+		
+	// Deep-Merge
 		eleventyConfig.setDataDeepMerge(true)
 
 		// Base Config
