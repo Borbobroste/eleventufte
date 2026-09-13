@@ -3,11 +3,16 @@ permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 ---
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for item in collections.all %}
-  {% if item.url %}
   <url>
-    <loc>https://barbarophonie.fr{{ item.url }}</loc>
+    <loc>https://barbarophonie.fr/</loc>
   </url>
-  {% endif %}
-{% endfor %}
+  <url>
+    <loc>https://barbarophonie.fr/contact/</loc>
+  </url>
+  <url>
+    <loc>https://barbarophonie.fr/preface.pdf</loc>
+  </url>
+  <url>
+    <loc>https://barbarophonie.fr/table-des-matieres.pdf</loc>
+  </url>
 </urlset>
