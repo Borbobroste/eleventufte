@@ -38,6 +38,7 @@ eleventyConfig.addPassthroughCopy('src/uploads')
 eleventyConfig.addPassthroughCopy('src/preface.pdf')
 eleventyConfig.addPassthroughCopy('src/table-des-matieres.pdf')
 eleventyConfig.addPassthroughCopy('src/robots.txt')
+eleventyConfig.addPassthroughCopy("src/favicon.ico");
 		
 	// Deep-Merge
 		eleventyConfig.setDataDeepMerge(true)
