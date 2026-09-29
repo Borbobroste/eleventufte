@@ -19,9 +19,9 @@ Que voulait donc dire ce mot critiqué par beaucoup pour son "néocolonialisme" 
 
 Par la littérature, bien sûr. Et par la médiation du concept qui transcendait toutes ces questions : celui de barbarie. 
 
-L’idée que j’avais éprouvée, c’est que la forme donnée aux « littératures francophones » nous renseignait, par son séparatisme même, sur un état antérieur du discours littéraire, dont le devenir dialectique traversait les divisions perceptives, nationales, critiques, bref politiques, qui fondent les corpus à l’intérieur de la langue française. 
+L’idée que j’avais éprouvée, c’est que la forme donnée aux "littératures francophones" nous renseignait, par son séparatisme même, sur un état antérieur du discours littéraire, dont le devenir dialectique traversait les divisions perceptives, nationales, critiques, bref politiques, qui fondent les corpus à l’intérieur de la langue française. 
 
-À rebours du clivage, y compris postcolonial, entourant habituellement cette question, je réévaluais l’historiographie des rapports entre « littérature française » et « littératures francophones » en dégageant leur généalogie commune (la tradition barbare) et en reformulant le terme « francophone » – je montrais qu’il voulait dire « barbare » et j’en tirais une théorie de la littérature. 
+À rebours du clivage, y compris postcolonial, entourant habituellement cette question, je réévaluais l’historiographie des rapports entre "littérature française" et "littératures francophones" en dégageant leur généalogie commune (la tradition barbare) et en reformulant le terme "francophone" – je montrais qu’il voulait dire "barbare" et j’en tirais une théorie de la littérature. 
 
 J’espérais alors amorcer une réflexion collective apaisée autour d’une autre histoire littéraire, synthèse entre mémoires nationale et postcoloniale, plus à même de répondre aux enjeux politiques et pédagogiques actuels. »
 
