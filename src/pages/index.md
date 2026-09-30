@@ -9,7 +9,6 @@ compact: true
 <img src="/assets/couverture.png"  
 alt="Couverture de Francophonie : Une généalogie barbare">
 
-*Extrait de la préface *
 
 « J’ai donc poursuivi mes recherches en dehors de l’Université, en reprenant à nouveaux frais la généalogie d’une notion critique alors elle-même mise en crise. 
 
